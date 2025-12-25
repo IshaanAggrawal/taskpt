@@ -39,8 +39,8 @@ Follow these instructions to set up the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/task-manager.git](https://github.com/yourusername/task-manager.git)
-cd task-manager
+git clone [https://github.com/yourusername/taskpt.git](https://github.com/yourusername/taskpt.git)
+cd taskpt
 
 ```
 
@@ -163,5 +163,6 @@ task-manager/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ```
+
 
 

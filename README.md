@@ -139,7 +139,8 @@ task-manager/
 
 ### Login Page
 
-![alt text](image.png)
+<img width="1365" height="590" alt="image" src="https://github.com/user-attachments/assets/928b3c8b-d2c5-4ef0-babb-fcd3d59548eb" />
+
 
 ### Task Dashboard
 
@@ -162,4 +163,5 @@ task-manager/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ```
+
 

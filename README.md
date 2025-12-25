@@ -2,8 +2,6 @@
 
 A modern, scalable web application for managing tasks and user profiles. Built with **Next.js 14**, **Node.js**, **Express**, and **MongoDB**. This project features secure JWT authentication, a responsive dashboard, and a clean split-screen UI design.
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Task+Manager+App+Preview)
-
 ## 🚀 Features
 
 ### ✅ Frontend (Next.js)
@@ -164,3 +162,4 @@ task-manager/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ```
+

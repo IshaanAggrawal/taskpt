@@ -16,4 +16,4 @@ app.use(cookieParser());
 app.use("/api/auth", require("./routes/auth.route"));
 app.use("/api/tasks", require("./routes/task.route"));
 
-app.listen(5000, () => console.log("Server running on port 5000"));
+module.exports = app;
